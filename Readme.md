@@ -20,6 +20,7 @@ Rules of Hooks
 Scopes and hooks (Making SetInternval declarative with React Hooks)
 [https://overreacted.io/making-setinterval-declarative-with-react-hooks/](https://overreacted.io/making-setinterval-declarative-with-react-hooks/)
 
+A Cartoon Intro to Fiber
 [https://www.youtube.com/watch?v=ZCuYPiUIONs](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 
 Internals meetup recording on Fiber Architecture
